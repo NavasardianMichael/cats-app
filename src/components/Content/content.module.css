@@ -1,0 +1,7 @@
+.content {
+    box-sizing: border-box;
+    position: relative;
+    margin-top: .5rem;
+    padding-left: 10rem;
+    margin-bottom: .5rem;
+}

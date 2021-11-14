@@ -1,0 +1,4 @@
+.no_categories_hint {
+    width: calc(100vw - 12rem);
+    text-align: center;
+}

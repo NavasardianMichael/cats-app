@@ -1,0 +1,19 @@
+.load_more_section {
+  width: 100%;
+  text-align: center;
+}
+
+.load_more_button {
+  all: unset;
+  padding: .5rem 4rem;
+  background-color: rgb(247, 245, 245);
+  transition: .3s;
+  cursor: pointer;
+  margin: .5rem 0;
+  border: 1px solid rgb(236, 235, 235);
+}
+
+.load_more_button:hover {
+  background: rgb(236, 235, 235);
+  transition: .3s;
+}
